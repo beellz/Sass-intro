@@ -1,0 +1,15 @@
+this is section where i write what i learn :
+
+Firstly use $Primary as a variable .
+$ with name is variable
+u can use it anywhere in scss file,
+the changes where u made can be given by 
+sass style.scss:style.css (the first should be scss file and with coloum (:) the end file .
+
+if u want it to watch the changes u made just give --watch argv.
+so its like 
+sass --watch 
+sass --watch style.scss:style.css
+
+this start in watch mode where it will see everything u change and compiled it automatically
+
