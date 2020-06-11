@@ -4,4 +4,8 @@ header {
   display: -ms-flexbox;
   display: flex;
 }
+
+.hero {
+  color: #f04f4f;
+}
 /*# sourceMappingURL=style.css.map */
